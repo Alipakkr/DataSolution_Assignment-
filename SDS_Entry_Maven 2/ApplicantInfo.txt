@@ -1,0 +1,5 @@
+Please enter your personal information :
+
+	Name:
+	Email ID:
+	Phone #:

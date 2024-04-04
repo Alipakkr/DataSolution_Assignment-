@@ -1,0 +1,108 @@
+101396885   ALVA                     CAROLA                   4829 JAUREGUI BLVD            CORCORAN            IL  55357                          
+727344064   FASSETT                  DAINA                    8614 LIPSEY PKWY              LEWISTON            MN  55952                          
+222743521   MCSHANE                  MIKI                     2220 KIEL PKWY                ROCHERT             MN  56578                          
+581993933   LAFAVE                   GIANNA                   5933 JAWORSKI RD              UTICA               MN  55979                          
+93804840    KEARSE                   RICKI                    6236 NICKLES BLVD             ANDOVER             OK  55304                          
+949638481   BULLER                   TERISA                   808 BLAZER BLVD               NEW GERMANY         MN  55367                          
+330287180   HOUSLEY                  JAYMIE                   3440 PAULUS ST                PUPOSKY             MN  56667                          
+516133562   GLIDEWELL                GAYNELLE                 1251 REVELL AVE               ELMORE              MN  56027                          
+536729166   RIDENHOUR                LAQUANDA                 1939 HURDLE BLVD              ABMPS               OK  55472                          
+699061261   STANDRIDGE               KARENA                   9801 LOWTHER ST               ALDEN               MN  56009                          
+125859470   CANCEL                   SHARIE                   8562 MCGAHA BLVD              CUSSON              MN  55771                          
+715174459   STCYR                    JACELYN                  6934 LAUDERDALE ST            MAPLE PLAIN         MN  55576                          
+250198926   ABSHER                   LACHELLE                 9569 REVELL ST                YOUNG AMERICA       MN  55551                          
+935075668   ANDINO                   BLOSSOM                  3045 LIPSEY AVE               FDCI                MN  56399                          
+564068468   BACKER                   MARLINE                  8517 DUDEK BLVD               SAINT PAUL          MN  55128                          
+525322350   CIMINO                   MARAGRET                 4331 SQUIRE ST                NORWOOD YOUNG AMERICMN  55473                          
+362170285   CLARE                    JALISA                   1035 TO RD                    GOODVIEW            MN  55987                          
+61041160    TWOMEY                   CHERY                    9574 OMEARA PKWY              ROCKFORD            IL  55373                          
+370816642   REVELL                   LALA                     4492 MCCREADY ST              MINNEAPOLIS         MN  55433                          
+703782023   KOWALCZYK                MARIKO                   1235 DUDEK ST                 IRON                MN  55751                          
+902727979   DUSTIN                   JANEE                    8720 TELLES ST                SAINT LOUIS PARK    MN  55416                          
+801876079   HUNG                     MENDY                    7975 COLQUITT RD              PONTO LAKE          MN  56474                          
+890443901   JAUREGUI                 LIZZETTE                 9259 ZITO AVE                 CHANHASSEN          IL  55317                          
+968576745   CORUM                    MILDA                    9422 TYNES ST                 MINNESOTA LK        MN  56068                          
+867948555   TEDFORD                  SHANTELLE                1019 JAHNKE BLVD              WACONIA             MN  55387                          
+309969937   HURDLE                   TWANNA                   3306 SAARI ST                 CORMORANT           NY  56572                          
+30358242    ALBIN                    JOANNIE                  9765 MCGAHA PKWY              BEAR LAKE           MN  55723                          
+12713045    MARROW                   YULANDA                  8211 PENDLEY BLVD             SOUDAN              NY  55782                          
+574128035   CANCEL                   ALEASE                   7292 MCKINZIE AVE             DENNISON            MN  55018                          
+827424168   PAULUS                   IVELISSE                 5253 RISINGER RD              MAPLEWOOD           MN  55144                          
+207575842   SWAREY                   RHONA                    9537 TARTER PKWY              O BRIEN             MN  56667                          
+416775920   NIGRO                    SANDIE                   6743 CADDELL RD               PIERZ               IL  56364                          
+169266259   TEASLEY                  TAISHA                   2525 VANEGAS BLVD             ECHO                MN  56237                          
+93015344    BENEDETTO                MITZIE                   1461 MARCHETTI PKWY           EYOTA               MN  55934                          
+840357451   RIENDEAU                 GREGORY                  9457 MARROW RD                ST ANTHONY VILLAGE  MN  55421                          
+183229836   VUONG                    CLORINDA                 498 HUDNALL PKWY              MINNEAPOLIS         MN  55406                          
+854349374   HERSHEY                  MICA                     6661 KNEPPER PKWY             KELLOGG             MN  55945                          
+204831563   GORDY                    YASUKO                   4172 MELNICK ST               WING RIVER          MN  56481                          
+989248896   BLACKMORE                DOMINICA                 373 LIPSEY RD                 NORWOOD YOUNG AMERICMN  55553                          
+519809487   FINGER                   ALESHIA                  5544 MCKINZIE BLVD            BLOOMINGTON         IL  55435                          
+433842055   BULLER                   SERITA                   8029 TWOMEY BLVD              PARKERS PR          IL  56361                          
+360260254   MULVEY                   MELDA                    9501 LENHART ST               LAMOILLE            MN  55987                          
+102998729   ALBIN                    DOMINICA                 3270 GALLEGO RD               HAUGEN              MN  55787                          
+447598208   JOUBERT                  APOLONIA                 1854 FASSETT PKWY             SAUM                MN  56650                          
+643180102   FOXWORTH                 BERNARDINE               5276 DIEGO BLVD               SAINT PAUL          MN  55187                          
+833517553   TAVAREZ                  SAU                      3493 LAFONTAINE ST            KILKENNY            MN  56052                          
+424976768   DAHLGREN                 BECKI                    3198 RABE PKWY                ALMELUND            MN  55002                          
+935158398   COLQUITT                 LATOYIA                  4999 RUEDA PKWY               PRESTON             MN  55965                          
+486328614   STOCKDALE                MISHA                    464 COLQUITT BLVD             MEDINA              NJ  55359                          
+419405884   MAUNEY                   BRETT                    5693 RENSHAW PKWY             BIRCH BEACH         MN  56686                          
+456462927   LIPSEY                   YASMINE                  4183 CANCEL ST                ALMORA              MN  56551                          
+715973879   REVELL                   SHANTELLE                4308 RISLEY RD                BAGLEY              MN  56621                          
+731292185   MARCHETTI                TREASA                   9385 MANZANARES BLVD          FARDEN              MN  56633                          
+464769824   NIEMAN                   WANETA                   3241 RIDENHOUR BLVD           WANNASKA            OK  56761                          
+536964163   AUBIN                    SHARIE                   6744 LIST ST                  ROSCOE              OK  56371                          
+804487108   CLAYCOMB                 AVERY                    5455 NEVINS AVE               STACY               MN  55079                          
+539401005   STAMP                    UTE                      8039 ZITO PKWY                YOUNG AMERICA       MN  55557                          
+699061261   STANDRIDGE               KARENA                   9801 LOWTHER ST               ALDEN               MN  56009                          
+237102738   SAARI                    ODELIA                   1799 MCCOURT RD               SHERBURN            OK  56171                          
+846661075   MENEFEE                  JOANNIE                  4350 HERTEL RD                JACOBSON            MN  55752                          
+373203928   SHOULDERS                EMERALD                  698 BRAUER RD                 HASSAN              OK  55311                          
+151878613   MULVEY                   KA                       1006 GEBHART RD               SUNRISE             MN  55056                          
+108468358   HURDLE                   JEANMARIE                3167 BIBB ST                  DEXTER              NY  55926                          
+988498289   LESHER                   LUETTA                   4838 CLARE PKWY               STUNTZ              MN  55746                          
+135127080   LEIVA                    CHING                    7043 PRESNELL BLVD            DENT                OK  56528                          
+420741555   BLACKMORE                SHERYLL                  8091 DUDEK ST                 BEARDSLEY           NY  56211                          
+969628550   WALLEY                   JACINDA                  4329 DUDEK PKWY               VERMILION DAM       MN  55771                          
+34796783    WIGGS                    LATRISHA                 3596 NEVINS RD                NEVIS               MN  56467                          
+236841874   NIEMAN                   CHER                     3720 GEBHART ST               WESTBROOK           OK  56183                          
+750383016   DUDEK                    DANYELL                  6459 MAUNEY PKWY              ADOLPH              NJ  55701                          
+211471283   PILLOW                   REYNALDA                 7778 BARBIERI RD              MINNEAPOLIS         MN  55470                          
+642084802   BIGGERS                  CHERY                    8990 STRAHAN ST               MAPLE PLAIN         MN  55593                          
+767603881   RIEGER                   KANDIS                   6388 LAFONTAINE RD            ORLEANS             MN  56735                          
+671591243   TYNES                    RAYMOND                  3895 FECTEAU BLVD             SHOREWOOD           OK  55331                          
+968788518   DUSTIN                   YURI                     3001 SCHUTT ST                DOVRAY              MN  56125                          
+910850002   KOWALCZYK                JOSPHINE                 2239 RODRIQUES ST             SARATOGA            MN  55972                          
+320595186   KOWALCZYK                GIANNA                   9919 LIPSEY RD                TROSKY              MN  56144                          
+501124907   TAVAREZ                  MISS                     70 SASS BLVD                  SHOREVIEW           MN  55126                          
+976554502   RIDENHOUR                LALA                     2896 ALBIN RD                 MENDOTA HTS         MN  55120                          
+420741555   BLACKMORE                SHERYLL                  8091 DUDEK ST                 BEARDSLEY           NY  56211                          
+590243043   RICHERSON                KRISSY                   4569 SHOULDERS BLVD           GILMAN              MN  56333                          
+16937946    LOWTHER                  YULANDA                  7174 HERSHEY ST               FRANCONIA           MN  55074                          
+949308840   DUNKLE                   LETISHA                  3120 FASSETT RD               MOORHEAD STATE UNIVENY  56563                          
+85115382    LENHART                  ROXY                     4444 KNISLEY ST               DULUTH              MN  55801                          
+911602926   SESSION                  MAILE                    8557 LESHER RD                RENO                MN  55919                          
+480705405   GALLEGO                  KENDA                    1971 TOLLE ST                 MILACA              MN  56353                          
+642084802   BIGGERS                  CHERY                    8990 STRAHAN ST               MAPLE PLAIN         MN  55593                          
+19574161    MCCOURT                  CHANELLE                 7622 MARIANO PKWY             BLOOMINGTON         IL  55425                          
+419403354   CORUM                    CREOLA                   3081 RICHERSON BLVD           GARFIELD            MN  56332                          
+406223434   PENNER                   WEN                      8925 LELAND PKWY              MINN                MN  55440                          
+976554502   RIDENHOUR                LALA                     2896 ALBIN RD                 MENDOTA HTS         MN  55120                          
+156376760   BIGGERS                  CREOLA                   4027 COLQUITT PKWY            NOWTHEN             MN  55330                          
+721571162   ULIBARRI                 MIGNON                   8002 COLOMBO AVE              WAASA               NJ  55732                          
+968788518   DUSTIN                   YURI                     3001 SCHUTT ST                DOVRAY              MN  56125                          
+796053098   RENSHAW                  WILLIEMAE                3823 BROWNFIELD BLVD          WARBA               MN  55793                          
+512299024   KNISLEY                  THORA                    834 MCCOMB ST                 STANCHFIELD         MN  55080                          
+701397724   HUTH                     TOMIKO                   5703 ANDRESS RD               ZERKEL              MN  56621                          
+420741555   BLACKMORE                SHERYLL                  8091 DUDEK ST                 BEARDSLEY           NY  56211                          
+426335146   CARLEY                   PAULENE                  4729 MOYNIHAN ST              SILICA              MN  55746                          
+354642886   HUSTED                   AMBERLY                  621 JOUBERT ST                HENNING             NY  56551                          
+525793680   ENDRES                   REAGAN                   9652 TYNES RD                 MACVILLE            MN  55785                          
+406320855   LINES                    YASMINE                  2569 AUBIN RD                 WEST UNION          MN  56378                          
+935150776   KIEL                     AURORE                   2451 ABSHER PKWY              BALATON             MN  56115                          
+701397724   HUTH                     TOMIKO                   5703 ANDRESS RD               ZERKEL              MN  56621                          
+113437422   WACKER                   YULANDA                  8872 ALVA ST                  NORWOOD YOUNG AMERICNJ  55552                          
+149590284   COLOMBO                  TASIA                    8748 HOUSLEY BLVD             DODGE CENTER        MN  55927                          
+410981823   WINE                     ARIANNE                  7493 GLIDEWELL AVE            HOLST               MN  56652                          
+354642886   HUSTED                   AMBERLY                  621 JOUBERT ST                HENNING             NY  56551                          

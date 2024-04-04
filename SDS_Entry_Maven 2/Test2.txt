@@ -1,0 +1,26 @@
+DBMS Aptitude Test:
+===================
+
+Scenario:
+--------
+
+You are given following two tables. We want you to write the queries as mentioned in Questions below.
+
+	batch 		: 	{  id, customer_id, type, received_date, status, completed_date  }
+	document 	: 	{  id, batch_id, status, insured_name, insured_address, claimed_charge}
+
+
+
+Steps:
+-----
+	1) Open the site : http://sqlfiddle.com/ on your browser and copy the content of dbtest.sql on the Schema Panel ( Left Panel).
+	2) Hit "Build Schema" on the bottom of Schema Panel.
+	3) Write the queries for the question below on the Right Panel on sql fiddle site.
+	4) You hit "Run SQL" button to test your query.
+	5) Save the queries that you wrote to dbtest-queries.sql.
+
+
+Questions:
+---------
+	1) Find total claimed_charge of the exported documents.
+	2) Find insured_name, insured_address and claimed_charge for the documents that have status "TO_REPRICE" and customer id 1 and 2.

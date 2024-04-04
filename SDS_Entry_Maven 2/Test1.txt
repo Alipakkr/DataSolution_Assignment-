@@ -1,0 +1,35 @@
+Java Programming Aptitude Test:
+===============================
+
+Scenario :
+--------
+	A client has provided us with a file that contains basic information about their current membership, 
+	and asked us to convert the file and send it to one of their business partners. The name of the file is 
+	"Members.txt" and it's in a fixed-column format. The fields are found to be in the following order and length:
+	
+		 id (12)    last name(25)    first name(25)    address(30)    city(20)    state(4)    zip(5) 
+		
+	After a call with the client's business partner, they've informed us that they prefer to receive the member
+	data in comma-separated-value (CSV) file format. 
+	
+	They have the additional requirements on the files as below:
+		a) the member data file must be split by state. The split files must have state prefix ( eg : 'NY_outputFile.csv', 'MN_outputFile.csv')
+		b) they will not accept a file that has duplicate member records in it.
+		c) the fields should be in following order in the CSV file(s).
+		
+			[ id, first name, last name, address, city, zip ]
+
+
+Task :
+----
+	- Complete the Main class to perform the conversion described above. You may need to work on the incomplete code in other classes as well.
+
+
+
+Note:
+----
+	- Use the classes  MemberExporterImpl  and MemberImporterImpl to avoid code duplication. 
+	- You are not allowed to modify the input files.
+	- You are not allowed to add any additional class(except for utility functions).
+	- You may use Internet resources as required.
+	

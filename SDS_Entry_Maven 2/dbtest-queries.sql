@@ -79,11 +79,11 @@ AND batch.customer_id IN (1, 2);
 -- Output is
 -- insured_name	insured_address	claimed_charge
 -- Geeta	           KTM	          11100
--- Shankar	       KTM	          500
+-- Shankar	           KTM	          500
 -- Shyam	           NGT	          100
 -- Biraj	           KTM	          510
--- Shankar	       NGT	          1500
--- Ujjwal            NGT	          80000
--- Bishwo            LALIT	      600
--- Ram	           KTM	          100
--- Krishna	       KTM	          110
+-- Shankar	           NGT	          1500
+-- Ujjwal              NGT	          80000
+-- Bishwo              LALIT	      600
+-- Ram	               KTM	          100
+-- Krishna	           KTM	          110
